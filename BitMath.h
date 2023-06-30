@@ -5,6 +5,7 @@
  *  Author: dell
  */ 
 
+//version 2 
 
 #ifndef BITMATH_H_
 #define BITMATH_H_
